@@ -1,0 +1,11 @@
+[
+    { "name": "Sharon",  "gender": "female", "specialty": "Family Practice", "reviewCount": 3 },
+    { "name": "Walter",  "gender": "male", "specialty": "Pediatrics", "reviewCount": 4 },
+    { "name": "Christy", "gender": "female", "specialty": "Pediatrics",     "reviewCount": 1 },
+    { "name": "Shane", "gender": "male", "specialty": "Pediatrics", "reviewCount": 2 },
+    { "name": "Lindy", "gender": "female", "specialty": "Family Practice", "reviewCount": 5 },
+    { "name": "Ron", "gender": "male", "specialty": "Family Practice", "reviewCount": 9 },
+    { "name": "", "gender": "", "specialty": null, "reviewCount": 5 },
+    { "name": "Randy",  "gender": "male", "specialty": "Plastic Surgeon", "reviewCount": 7 },
+    { "name": "Johanna", "gender": "female", "specialty": "Family Practice", "reviewCount": 2 }
+]
